@@ -1,12 +1,15 @@
-# Hi there! 👋  
+<h1 align="center">Hi there! 👋</h1>  
 
-I am a **Backend Developer** and **Software Engineer** with experience in **.NET development** and **MSSQL**. I specialize in **C#**, **.NET Core**, and **MVC**, with a strong foundation in **Object-Oriented Programming (OOP)**. I'm passionate about learning new technologies and continuously improving my skills.  
+<h3 align="center">
+I am a Backend Developer and Software Engineer with experience in ASP.NET and MSSQL. I specialize in C#, .NET Core, and MVC. I'm passionate about learning new technologies and continuously improving my skills.  
+</h3>
 
 ## 📫 Contact Information  
-**Name:** [Andrey Ovcharenko]  
-**Email:** [andrey.ov.dev@gmail.com]  
-**GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/andreyovdev)  
-**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/andrey-ovcharenko-943bab306)  
+- **Name:** Andrey Ovcharenko  
+- **Address:** Burgas, Bulgaria  
+- **Email:** andrey.ov.dev@gmail.com  
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/andreyovdev)  
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/andrey-ovcharenko-943bab306)  
 
 ## 🎓 Education  
 - **Burgas Free University**  
