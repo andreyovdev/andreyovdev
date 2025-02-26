@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>  
 
 <h3 align="center">
-I am a Backend Developer and Software Engineer with experience in ASP.NET and MSSQL. I specialize in C#, .NET Core, and MVC. I'm passionate about learning new technologies and continuously improving my skills.  
+I am a Software Engineer with experience in ASP.NET and MSSQL. I specialize in C#, .NET Core, and MVC. I'm passionate about learning new technologies and continuously improving my skills.  
 </h3>
 
 ## 📫 Contact Information  
