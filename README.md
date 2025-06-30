@@ -6,7 +6,7 @@ I am a Software Engineer with experience in ASP.NET and MSSQL. I specialize in C
 
 ## 📫 Contact Information  
 - **Name:** Andrey Ovcharenko  
-- **Address:** Burgas, Bulgaria  
+- **Address:** Sofia, Bulgaria  
 - **Email:** andrey.ov.dev@gmail.com  
 - **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/andreyovdev)  
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/andrey-ovcharenko-943bab306)  
