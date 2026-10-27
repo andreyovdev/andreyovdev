@@ -1,53 +1,23 @@
-<h1 align="center">Hi there! 👋</h1>  
+# Hi, I'm Andrey 👋
 
-<h3 align="center">
-I am a Software Engineer with experience in ASP.NET and MSSQL. I specialize in C#, .NET Core, and MVC. I'm passionate about learning new technologies and continuously improving my skills.  
-</h3>
+Software Engineer building full-stack web applications with **.NET (ASP.NET Core) and React/TypeScript**, and AI-integrated tooling with **Azure OpenAI, the Claude API and MCP servers**. Based in Sofia, Bulgaria.
 
-## 📫 Contact Information  
-- **Name:** Andrey Ovcharenko  
-- **Address:** Sofia, Bulgaria  
-- **Email:** andrey.ov.dev@gmail.com  
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/andreyovdev)  
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/andrey-ovcharenko-943bab306)  
+## What I'm doing now
+**Software Engineer at Akvelon** (Microsoft partner): internal AI assistants and MCP servers, Azure infrastructure as code with Bicep, full-stack features, and automated testing in an Agile/Scrum team.
 
-## 🎓 Education  
-- **Burgas Free University**  
-Bachelor's degree, Computer Software Engineering  
-Oct 2021 - Jul 2025
+## Tech
+**Backend:** C#, ASP.NET Core, Entity Framework Core, REST APIs, Microservices, Node.js
+**Frontend:** React, TypeScript, Tailwind CSS, Bootstrap
+**Data:** SQL Server, MongoDB
+**Cloud & DevOps:** Microsoft Azure, Azure DevOps, Docker, Bicep, Git
+**Testing:** xUnit, NUnit, Moq, Playwright
+**AI:** Azure OpenAI, Claude API, MCP server development, agentic workflows
 
-- **Software University (SoftUni)**  
-Professional Module C# WEB DEVELOPER  
-2022 - 2025
+## Projects
+- **[BikeOrbit](https://github.com/andreyovdev/OnlineShop)**: full-stack e-commerce platform with auth, product management, cart, wishlist and admin panel, built with Clean Architecture (ASP.NET Core, EF Core, SQL Server)
+- **3in1 Translator**: desktop app for real-time text and speech translation integrating five translation/speech models (Python, React, TypeScript, Whisper, DeepL, Vosk) <!-- TODO: link once the repo is public -->
+- **[prowebspace.net](https://prowebspace.net)**: web design and software services website with SEO and a redesigned UI (React, TypeScript, Node.js, MongoDB, Tailwind CSS)
+- **[ftm-lawfirm.com](https://ftm-lawfirm.com)**: law firm website with an admin panel for content editing and third-party integrations (React, TypeScript, Node.js, MongoDB)
 
-
-## 🛠️ Skills  
-- C#.NET, .NET Core, MVC  
-- MSSQL, SQL Server, Entity Framework  
-- HTML, CSS, JavaScript, jQuery  
-- Git, GitHub
-- Visual Studio, VS Code
-- Unity, Blender, Photoshop, Audacity, Premiere Pro  
-
-## 🚀 Projects  
-
-**[BikeOrbit – Online Bike Store](https://github.com/andreyovdev/OnlineShop)**  
-A full-featured e-commerce platform with authentication, product management, cart, wishlist, and an admin panel.  
-**Technologies:** .NET 8, ASP.NET Core, EF Core, MSSQL, Bootstrap, jQuery, AJAX  
-
-**[Music Player](https://github.com/andreyovdev/musicplayer)**  
-A desktop application for playing music with playlist management, media controls, album art display, and NAudio-based audio processing.  
-**Technologies:** C#, WPF, NAudio, Material Design  
-
-**[Horizons – Travel Destination Explorer](https://github.com/andreyovdev/Horizons)**  
-A travel app that allows users to explore, manage, and favorite destinations with authentication and full CRUD functionality.  
-**Technologies:** .NET 8, ASP.NET Core MVC, EF Core, MSSQL, Bootstrap  
-
-## 🌍 Languages
-- English: Upper Intermediate
-- Bulgarian: Fluent
-- Russian: Fluent
-
-## 🌱 I’m currently learning:
-Meta XR All-in-One SDK.  
-Unity for mixed reality development.
+## Contact
+[LinkedIn](https://linkedin.com/in/andrey-ovcharenko-dev/) · andrey.ov.dev@gmail.com
