@@ -14,8 +14,9 @@ Software Engineer building full-stack web applications with **.NET (ASP.NET Core
 **AI:** Azure OpenAI, Claude API, MCP server development, agentic workflows
 
 ## Projects
+Most of my recent work (React/TypeScript, AI tooling, Azure) lives in private repositories; the public repos here are earlier .NET projects.
+
 - **[BikeOrbit](https://github.com/andreyovdev/OnlineShop)**: full-stack e-commerce platform with auth, product management, cart, wishlist and admin panel, built with Clean Architecture (ASP.NET Core, EF Core, SQL Server)
-- **3in1 Translator**: desktop app for real-time text and speech translation integrating five translation/speech models (Python, React, TypeScript, Whisper, DeepL, Vosk) <!-- TODO: link once the repo is public -->
 - **[prowebspace.net](https://prowebspace.net)**: web design and software services website with SEO and a redesigned UI (React, TypeScript, Node.js, MongoDB, Tailwind CSS)
 - **[ftm-lawfirm.com](https://ftm-lawfirm.com)**: law firm website with an admin panel for content editing and third-party integrations (React, TypeScript, Node.js, MongoDB)
 
